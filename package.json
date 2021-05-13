@@ -1,0 +1,20 @@
+{
+  "name": "return-sky",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/juergenie/return-sky",
+  "author": "juer whang",
+  "license": "MPL2.0",
+  "devDependencies": {
+    "@types/extend": "^3.0.1",
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.6",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "cnpm": "^6.2.0",
+    "extend": "^3.0.2"
+  }
+}
